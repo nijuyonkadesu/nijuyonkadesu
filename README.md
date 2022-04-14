@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijuyonkadesu&label=Profile%20views&color=0e75b6&style=flat" alt="nijuyonkadesu" /> </p>
 
 - 🌱 I’m currently learning **Kotlin, JS, CSS**
-
-- ⚡ Fun fact **Average anime OST enjoyer 🎵**
 <p align="left">
 </p>
 
