@@ -2,7 +2,7 @@
 24k🍂 #𝓑𝓾𝓲𝓵𝓽_𝓭𝓲𝓯𝓯𝓮𝓻𝓮𝓷𝓽
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijuyonkadesu&label=Profile%20views&color=0e75b6&style=flat" alt="nijuyonkadesu" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, JS, CSS**
+- 🌱 I’m currently learning **Kotlin | Android App Development**
 <p align="left">
 </p>
 
