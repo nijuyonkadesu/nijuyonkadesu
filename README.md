@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijuyonkadesu&label=Profile%20views&color=0e75b6&style=flat" alt="nijuyonkadesu" /> </p>
 
 - 🌱 I’m currently learning **Kotlin | Android App Development**
+- 🚀 Trying out **Jetpack Compose**
 <p align="left">
 </p>
 
